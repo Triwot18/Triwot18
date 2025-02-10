@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 ¡Hola! Soy Gerson Mauricio Flores Gutierrez  
-### 🚀 Analista y Desarrollador de Software Junior y Operador de Ciberseguridad Junior | Estudiante de informática en UMSA  
-### Soy un Desarrolador Web Junior y Operador de Ciberseguridad Junior en formacion con experiencia en practicas profesionales, proyectos academicos y concursos. Tengo una solida comprension de la programacion, el analisis de datos, en base a mi capacidad de adaptacion y aprendizaje continuo. Mi enfoque esta en la creacion de soluciones eficientes y seeguros con mi compromiso con la mejora constante de mis habilidades.
+## 🚀 Analista y Desarrollador de Software Junior y Operador de Ciberseguridad Junior | Estudiante de informática en UMSA  
+#### Soy un Desarrolador Web Junior y Operador de Ciberseguridad Junior en formacion con experiencia en practicas profesionales, proyectos academicos y concursos. Tengo una solida comprension de la programacion, el analisis de datos, en base a mi capacidad de adaptacion y aprendizaje continuo. Mi enfoque esta en la creacion de soluciones eficientes y seeguros con mi compromiso con la mejora constante de mis habilidades.
 ## 🚀 Habilidades Tecnicas:
 ## 🚀 Lenguajes de Programacion:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
