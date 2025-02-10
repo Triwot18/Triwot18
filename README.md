@@ -1,7 +1,8 @@
 ## Hi there 👋
-# 👋 ¡Hola! Soy [Tu Nombre]  
-### 🚀 Desarrollador en [Tu especialidad] | Estudiante de informática en UMSA  
+# 👋 ¡Hola! Soy Gerson Mauricio Flores Gutierrez  
+### 🚀 Desarrollador de Software y Operador de Ciberseguridad | Estudiante de informática en UMSA  
 ## 🚀 Tecnologías y herramientas:
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
